@@ -166,7 +166,7 @@ th,td {
 
 .todayCell {
 	text-align: right;
-	font-size: x-large;
+	font-size: 0.7em;
 }
 
 .lastDateCell, .versionCell, .disclaimerCell, .colorsCell, .carsCell, .whatsappCell{
@@ -249,6 +249,11 @@ th,td {
 	}
 	.lastDateCell, .versionCell, .disclaimerCell, .colorsCell, .carsCell, .whatsappCell{
 		text-align: center;
+		font-size: x-large;
+	}
+	
+	.todayCell {
+		text-align: right;
 		font-size: x-large;
 	}
 }
