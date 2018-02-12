@@ -47,7 +47,7 @@ th,td {
 }
 
 .pointsCell, .fineCell, .sectionCell {
-	font-size: 2em;
+	font-size: 1em;
 	text-align: right;
 }
 
@@ -256,6 +256,12 @@ th,td {
 		text-align: right;
 		font-size: x-large;
 	}
+	
+	.pointsCell, .fineCell, .sectionCell {
+		font-size: 2em;
+		text-align: right;
+	}
+
 }
 
 .deletable {
