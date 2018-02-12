@@ -171,7 +171,7 @@ th,td {
 
 .lastDateCell, .versionCell, .disclaimerCell, .colorsCell, .carsCell, .whatsappCell{
 	text-align: center;
-	font-size: x-large;
+	font-size: 0.7em;
 }
 
 .carsCell, .colorsCell {
@@ -246,6 +246,10 @@ th,td {
 		position: fixed;
 		right: 80px;
 		font: 20px Arial;
+	}
+	.lastDateCell, .versionCell, .disclaimerCell, .colorsCell, .carsCell, .whatsappCell{
+		text-align: center;
+		font-size: x-large;
 	}
 }
 
