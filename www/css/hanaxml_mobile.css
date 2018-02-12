@@ -250,7 +250,7 @@ th,td {
 }
 
 .deletable {
-    font-size: 2em;
+    font-size: 1em;
     width: 100%;
 	height: 100%;
     border-radius: 10px 10px 10px 10px;
